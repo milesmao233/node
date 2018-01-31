@@ -1,0 +1,196 @@
+20:19:13 listening server at http://0.0.0.0:5000
+20:22:2 listening server at http://0.0.0.0:5000
+20:22:5 index page
+20:27:23 asset path C:\workspace\node2\node上课用品10\node10_2/static
+20:27:23 listening server at http://0.0.0.0:5000
+20:28:5 asset path C:\workspace\node2\node上课用品10\node10_2\static
+20:28:5 listening server at http://0.0.0.0:5000
+20:28:40 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:28:40 listening server at http://0.0.0.0:5000
+20:45:8 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:45:8 listening server at http://0.0.0.0:5000
+20:45:15 form { id: '2', title: '睡觉123' }
+20:45:15 t undefined
+20:45:59 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:45:59 listening server at http://0.0.0.0:5000
+20:46:5 form { id: '2', title: '睡觉123' }
+20:46:19 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:46:19 listening server at http://0.0.0.0:5000
+20:46:22 form { id: '2', title: '睡觉123' }
+20:46:22 t before save Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516797982960,
+  title: '睡觉',
+  completed: false }
+20:46:22 t saved Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516797982960,
+  title: '睡觉',
+  completed: false }
+20:47:10 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:47:10 listening server at http://0.0.0.0:5000
+20:47:14 form { id: '2', title: '睡觉123' }
+20:47:14 form and t { id: '2', title: '睡觉123' } Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516797982960,
+  title: '睡觉',
+  completed: false }
+20:47:14 t before save Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516798034554,
+  title: '睡觉',
+  completed: false }
+20:47:14 t saved Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516798034554,
+  title: '睡觉',
+  completed: false }
+20:48:0 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:48:0 listening server at http://0.0.0.0:5000
+20:48:4 form { id: '2', title: '睡觉123' }
+20:48:4  key false id
+20:48:4 t before save Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516798084623,
+  title: '睡觉',
+  completed: false }
+20:48:4 t saved Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516798084623,
+  title: '睡觉',
+  completed: false }
+20:48:4  key false title
+20:48:23 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:48:23 listening server at http://0.0.0.0:5000
+20:48:27 form { id: '2', title: '睡觉123' }
+20:48:27  key true title
+20:48:27  key false id
+20:48:27 t before save Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516798107385,
+  title: '睡觉123',
+  completed: false }
+20:48:27 t saved Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516798107385,
+  title: '睡觉123',
+  completed: false }
+20:48:40 form { id: '2', title: '睡觉111' }
+20:48:40  key true title
+20:48:40  key false id
+20:48:40 t before save Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516798120138,
+  title: '睡觉111',
+  completed: false }
+20:48:40 t saved Todo {
+  id: 2,
+  created_time: 1516797015601,
+  updated_time: 1516798120138,
+  title: '睡觉111',
+  completed: false }
+20:50:37 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:50:37 listening server at http://0.0.0.0:5000
+20:52:19 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:52:19 listening server at http://0.0.0.0:5000
+20:52:39 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:52:39 listening server at http://0.0.0.0:5000
+20:53:45 asset path C:\workspace\node2\node上课用品10\node10_2\public
+20:53:45 listening server at http://0.0.0.0:5000
+12:7:54 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2/public
+12:7:54 listening server at http://0.0.0.0:5000
+12:31:3 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+12:31:3 listening server at http://0.0.0.0:5000
+12:59:51 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+12:59:51 listening server at http://0.0.0.0:5000
+13:6:11 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:6:11 listening server at http://0.0.0.0:5000
+13:8:1 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:8:1 listening server at http://0.0.0.0:5000
+13:16:6 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:16:6 listening server at http://0.0.0.0:5000
+13:18:13 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:18:13 listening server at http://0.0.0.0:5000
+13:20:0 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:20:0 listening server at http://0.0.0.0:5000
+13:25:48 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:25:48 listening server at http://0.0.0.0:5000
+13:27:2 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:27:2 listening server at http://0.0.0.0:5000
+13:27:6 id 2
+13:27:52 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:27:52 listening server at http://0.0.0.0:5000
+13:27:55 id 2
+13:27:55 w Weibo {
+  id: 2,
+  created_time: 1517375456501,
+  updated_time: 1517376426401,
+  content: '111',
+  userId: -1 }
+13:28:54 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:28:54 listening server at http://0.0.0.0:5000
+13:28:57 id 2
+13:28:57 w Weibo {
+  id: 2,
+  created_time: 1517375456501,
+  updated_time: 1517376475530,
+  content: '111',
+  userId: -1 }
+13:29:46 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:29:46 listening server at http://0.0.0.0:5000
+13:29:48 id 2
+13:29:48 content 111111
+13:29:48 w Weibo {
+  id: 2,
+  created_time: 1517375456501,
+  updated_time: 1517376537888,
+  content: '111111',
+  userId: -1 }
+13:30:0 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:30:0 listening server at http://0.0.0.0:5000
+13:30:3 w Weibo {
+  id: 2,
+  created_time: 1517375456501,
+  updated_time: 1517376588640,
+  content: '1111111',
+  userId: -1 }
+13:30:9 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:30:9 listening server at http://0.0.0.0:5000
+13:30:15 w Weibo {
+  id: 2,
+  created_time: 1517375456501,
+  updated_time: 1517376603944,
+  content: '11111111',
+  userId: -1 }
+13:30:29 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:30:29 listening server at http://0.0.0.0:5000
+13:30:33 w Weibo {
+  id: 2,
+  created_time: 1517375456501,
+  updated_time: 1517376615395,
+  content: '1111',
+  userId: -1 }
+13:30:42 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:30:42 listening server at http://0.0.0.0:5000
+13:41:46 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:41:46 listening server at http://0.0.0.0:5000
+13:42:30 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:42:30 listening server at http://0.0.0.0:5000
+13:48:22 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:48:22 listening server at http://0.0.0.0:5000
+13:51:48 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:51:48 listening server at http://0.0.0.0:5000
+13:54:2 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:54:2 listening server at http://0.0.0.0:5000
+13:54:43 asset path /Users/milesmao233/myDesktop/node/node上课板书10/node10_2weibo/public
+13:54:43 listening server at http://0.0.0.0:5000
